@@ -85,6 +85,7 @@ img {
   width: 100%;
   background-image: url('./images/meme_mona2.PNG');
   background-repeat: no-repeat;
+  display: table;
 }
 
 .feedback-section{

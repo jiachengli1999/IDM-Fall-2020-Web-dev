@@ -25,7 +25,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <title>Jia Li- Week2</title>
+          <title>Jia Li- Week2 hw</title>
         </header>
   
         <div className='start'>
