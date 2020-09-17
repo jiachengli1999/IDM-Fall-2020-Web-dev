@@ -21,6 +21,9 @@ class Home extends Component{
                     <Link to="/week3" className='week3 link'>Week 3</Link>
                     <Link to="/week4" className='week4 link'>Week 4</Link>
                     <Link to="/week5" className='week5 link'>Week 5</Link>
+                    <Link to="/week6" className='week6 link'>Week 6</Link>
+                    <Link to="/week7" className='week7 link'>Week 7</Link>
+                    <Link to="/week8" className='week8 link'>Week 8</Link>
                 </div>
             </div>
         )
