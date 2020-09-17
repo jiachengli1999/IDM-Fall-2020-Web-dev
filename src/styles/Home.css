@@ -1,0 +1,37 @@
+.home-name{
+    background-color: #333333;
+    color: white;
+    display: table;
+    width: 100%;
+    text-align: center;
+}
+
+.link{
+    display: block;
+    width: 250px;
+    /* Increase space in inside border  */
+    padding: 15px 0 15px 0;
+    /* 5 px spacing around border then center using auto */
+    margin: 5px auto;
+    /* cursor: pointer; */
+    color: white;
+    /* Remove underline from link  */
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.link:hover{
+    border: 1px solid black;
+    background-color: white;
+    color: black;
+}
+
+.week2{ background-color: #001f3f;}
+.week3{ background-color: #6B5B95;}
+.week4{ background-color: #F7CAC9;}
+.week5{ background-color: #009B77;}
+
+
+

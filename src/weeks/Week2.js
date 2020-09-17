@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import './Week2.css';
+import '../styles/Week2.css';
 import sunflowers from '../images/sunflowers.png'
 import mona from '../images/mona.PNG'
 import rating from '../images/rating.PNG'
