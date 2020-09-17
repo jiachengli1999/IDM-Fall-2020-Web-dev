@@ -1,0 +1,25 @@
+.side-section{
+    background-color: #ffe4e2;
+}
+
+.writing-section{
+    /* border: 1px solid black; */
+    display: table;
+    width: 70%;
+    height: 100%;
+    margin: auto;
+    /* text-align: center; */
+    font-size: 22px;
+    background-color: #f6f3eb;
+}
+
+p {
+    line-height: 35px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+img {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
