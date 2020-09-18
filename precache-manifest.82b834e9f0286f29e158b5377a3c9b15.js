@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "acaf2c59ff3b5215f9f1a2185f8bef95",
+    "revision": "f49d28ef344b5a313f738f746591b917",
     "url": "/IDM-Fall-2020-Web-dev/index.html"
   },
   {
-    "revision": "3b832241f6dcfa088f64",
+    "revision": "85aa01f5ad8961c13d58",
     "url": "/IDM-Fall-2020-Web-dev/static/css/main.459f9471.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/IDM-Fall-2020-Web-dev/static/js/2.7dd0f220.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3b832241f6dcfa088f64",
-    "url": "/IDM-Fall-2020-Web-dev/static/js/main.976d315f.chunk.js"
+    "revision": "85aa01f5ad8961c13d58",
+    "url": "/IDM-Fall-2020-Web-dev/static/js/main.7732aad8.chunk.js"
   },
   {
     "revision": "5bb65006aab5ded59b6f",

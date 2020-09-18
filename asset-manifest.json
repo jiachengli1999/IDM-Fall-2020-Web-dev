@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/IDM-Fall-2020-Web-dev/static/css/main.459f9471.chunk.css",
-    "main.js": "/IDM-Fall-2020-Web-dev/static/js/main.976d315f.chunk.js",
-    "main.js.map": "/IDM-Fall-2020-Web-dev/static/js/main.976d315f.chunk.js.map",
+    "main.js": "/IDM-Fall-2020-Web-dev/static/js/main.7732aad8.chunk.js",
+    "main.js.map": "/IDM-Fall-2020-Web-dev/static/js/main.7732aad8.chunk.js.map",
     "runtime-main.js": "/IDM-Fall-2020-Web-dev/static/js/runtime-main.b37d9002.js",
     "runtime-main.js.map": "/IDM-Fall-2020-Web-dev/static/js/runtime-main.b37d9002.js.map",
     "static/js/2.7dd0f220.chunk.js": "/IDM-Fall-2020-Web-dev/static/js/2.7dd0f220.chunk.js",
     "static/js/2.7dd0f220.chunk.js.map": "/IDM-Fall-2020-Web-dev/static/js/2.7dd0f220.chunk.js.map",
     "index.html": "/IDM-Fall-2020-Web-dev/index.html",
-    "precache-manifest.0316c89be0b723537590a5e4887c7448.js": "/IDM-Fall-2020-Web-dev/precache-manifest.0316c89be0b723537590a5e4887c7448.js",
+    "precache-manifest.82b834e9f0286f29e158b5377a3c9b15.js": "/IDM-Fall-2020-Web-dev/precache-manifest.82b834e9f0286f29e158b5377a3c9b15.js",
     "service-worker.js": "/IDM-Fall-2020-Web-dev/service-worker.js",
     "static/css/main.459f9471.chunk.css.map": "/IDM-Fall-2020-Web-dev/static/css/main.459f9471.chunk.css.map",
     "static/js/2.7dd0f220.chunk.js.LICENSE.txt": "/IDM-Fall-2020-Web-dev/static/js/2.7dd0f220.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.b37d9002.js",
     "static/js/2.7dd0f220.chunk.js",
     "static/css/main.459f9471.chunk.css",
-    "static/js/main.976d315f.chunk.js"
+    "static/js/main.7732aad8.chunk.js"
   ]
 }
