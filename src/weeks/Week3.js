@@ -50,7 +50,7 @@ class Week3 extends Component{
                                 I believe some web pages contain bias information that benefits a company. 
                                 In worst cases, there may even be fake news. I recently saw a video discussing about 
                                 the increase of fake reviews on Amazon. There’s a market out there where people are 
-                                buying 5 star reviews for their products as well as 1 star reviews from their competitors.
+                                buying 5 star reviews for their products as well as 1 star reviews for their competitors.
                             </p>
                             <figure>
                                 <img src={fake_review} alt='Fake Amazon Reviews'/>
