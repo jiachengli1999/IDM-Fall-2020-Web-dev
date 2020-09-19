@@ -28,7 +28,12 @@
     color: black;
 }
 
-.week2{ background-color: #001f3f;}
+.top{ border-radius: 10px 10px 0 0;}
+.bot{ border-radius: 0 0 10px 10px;}
+
+.week2{ background-color: #001f3f; 
+    margin-top: 10%;
+}
 .week3{ background-color: #6B5B95;}
 .week4{ background-color: #F7CAC9;}
 .week5{ background-color: #009B77;}
@@ -36,5 +41,34 @@
 .week7{ background-color: #45B8AC;}
 .week8{ background-color: #EFC050;}
 
+.left{
+    animation-duration: 1s;
+    animation-name: slideinleft;
+}
+.right{
+    animation-duration: 1s;
+    animation-name: slideinright;
+}
+.fast{
+    animation-duration: 0.5s;
+}
+.slow{
+    animation-duration: 1.5s;
+}
+@keyframes slideinleft{
+    from{
+        transform: translateX(-100%);
+    }
+    to{
+        transform: translateX(0);
+    }
+}
 
-
+@keyframes slideinright{
+    from{
+        transform: translateX(100%);
+    }
+    to{
+        transform: translateX(0);
+    }
+}

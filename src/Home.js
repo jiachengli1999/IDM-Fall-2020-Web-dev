@@ -17,13 +17,13 @@ class Home extends Component{
                 {/* Navbar */}
                 <div className='nav'>
                     {/* <Link to="/" className='home link'>Home </Link> */}
-                    <Link to="/week2" className='week2 link'>Week 2</Link>
-                    <Link to="/week3" className='week3 link'>Week 3</Link>
-                    <Link to="/week4" className='week4 link'>Week 4</Link>
-                    <Link to="/week5" className='week5 link'>Week 5</Link>
-                    <Link to="/week6" className='week6 link'>Week 6</Link>
-                    <Link to="/week7" className='week7 link'>Week 7</Link>
-                    <Link to="/week8" className='week8 link'>Week 8</Link>
+                    <Link to="/week2" className='left week2 link fast top'>Week 2</Link>
+                    <Link to="/week3" className='right week3 link slow'>Week 3</Link>
+                    <Link to="/week4" className='left week4 link'>Week 4</Link>
+                    <Link to="/week5" className='right week5 link slow'>Week 5</Link>
+                    <Link to="/week6" className='left week6 link fast'>Week 6</Link>
+                    <Link to="/week7" className='right week7 link'>Week 7</Link>
+                    <Link to="/week8" className='left week8 link fast bot'>Week 8</Link>
                 </div>
             </div>
         )
