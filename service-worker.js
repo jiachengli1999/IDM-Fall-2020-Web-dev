@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/IDM-Fall-2020-Web-dev/precache-manifest.b651e1f902578e545ddd3b46c01b392c.js"
+  "/IDM-Fall-2020-Web-dev/precache-manifest.ead1d2e486f48ea6b5884ebc395aae93.js"
 );
 
 self.addEventListener('message', (event) => {
