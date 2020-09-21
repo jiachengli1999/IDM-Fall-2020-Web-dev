@@ -9,11 +9,10 @@ import ComingSoon from './weeks/ComingSoon.js'
 
 
 class App extends Component{
-  constructor(){
-    super()
-    this.state = {}
+  componentDidMount(){
+    document.title = 'Fall 2020 Web Dev'
   }
-
+  
   render(){
     return(
       <div>
