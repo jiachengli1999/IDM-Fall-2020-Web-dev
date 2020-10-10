@@ -45,7 +45,7 @@ class Week6 extends Component{
         this.state = {
             curr_index: 0,
             pics: ['flower', 'house', 'white'],
-            current_color: 'flower',
+            current_color: 'white',
             house: [
                 ['white', 'white', 'white', 'white', 'white', 'white', '#000000', 'white', 'white', 'white'],
                 ['white', 'white', 'white', '#cc3300', '#cc3300', '#cc3300', '#cc3300', '#cc3300', 'white', 'white'],
