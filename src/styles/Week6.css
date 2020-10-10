@@ -2,6 +2,79 @@ div{
     text-align: center;
 }
 
+.landing-page{
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(11, 18, 56);
+    color: white;
+    justify-content: center;
+    align-items: center;
+    /* border: 3px solid white; */
+    flex-direction: column;
+}
+.landing-page > .title-flex{
+    font-size: 100px;
+}
+.landing-page > .pixels{
+    display: flex;
+    flex-direction: row;
+}
+.landing-page > .pixels > .pixel{
+    /* border: 3px solid white; */
+    background-color: white;
+    min-width: 30px;
+    min-height: 30px;
+    margin: 10px;
+    transition:width 2s;
+}
+.landing-page > .pixels > .one{
+    animation-name: pixelone;
+    animation-duration: 2s;
+}
+.landing-page > .pixels > .two{
+    animation-name: pixeltwo;
+    animation-duration: 2s;
+}
+.landing-page > .pixels > .three{
+    animation-name: pixelthree;
+    animation-duration: 2s;
+}
+.landing-page > .pixels > .four{
+    animation-name: pixelfour;
+    animation-duration: 2s;
+}
+.landing-page > .pixels > .five{
+    animation-name: pixelfive;
+    animation-duration: 2s;
+}
+@keyframes pixelone{
+    0% {background-color: red;}
+    50% {background-color: yellow;}
+    100% {background-color: white;}
+}
+@keyframes pixeltwo{
+    10% {background-color: pink;}
+    60% {background-color: plum;}
+    100% {background-color: white;}
+}
+@keyframes pixelthree{
+    20% {background-color: yellow;}
+    70% {background-color: green;}
+    100% {background-color: white;}
+}
+@keyframes pixelfour{
+    10% {background-color: black;}
+    40% {background-color: orange;}
+    100% {background-color: white;}
+}
+@keyframes pixelfive{
+    20% {background-color: violet;}
+    80% {background-color: aqua;}
+    100% {background-color: white;}
+}
+
+
 .flexbox-container{
     display: flex;
     justify-content: flex-start;
@@ -18,24 +91,24 @@ div{
     /* border: 3px solid black; */
 }
 
-.page1 > .item1{
+.pagex > .item1{
     width: 30%;
     display: flex;
     flex-direction: column;
 }
-.page1 > .item2{
+.pagex > .item2{
     width: 70%;
 }
 
-.page1 > .item1 > h1{
+.pagex > .item1 > h1{
     color: white;
 }
-.page1 > .item1 > .colors{
+.pagex > .item1 > .colors{
     display: flex;
     flex-direction: row;
     margin-bottom: 10px;
 }
-.page1 > .item1 > .colors > label{
+.pagex > .item1 > .colors > label{
     border: 2px solid black;
     padding: 10px;
 }

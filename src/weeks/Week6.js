@@ -2,43 +2,6 @@ import React, { Component } from 'react'
 import '../styles/Common.css'
 import '../styles/Week6.css'
 
-const data2 =[
-    ['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white'],
-    ['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white'],
-    ['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white'],
-    ['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white'],
-    ['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white'],
-    ['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white'],
-    ['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white'],
-    ['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white'],
-    ['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white'],
-    ['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']
-]
-// let flower =[
-//     ['white', 'white', 'white', 'white', '#ff0066', '#ff3399', '#ff0066', 'white', 'white', 'white'],
-//     ['white', 'white', 'white', '#ff0066', '#ff3399', '#ff3399', '#ff3399', '#ff0066', 'white', 'white'],
-//     ['white', 'white', 'white', '#ff3399', '#ff3399', '#ffff66', '#ff3399', '#ff3399', 'white', 'white'],
-//     ['white', 'white', 'white', '#ff0066', '#ff3399', '#ff3399', '#ff3399', '#ff0066', 'white', 'white'],
-//     ['white', 'white', 'white', 'white', '#ff0066', '#ff3399', '#ff0066', 'white', 'white', 'white'],
-//     ['white', 'white', 'white', 'white', 'white', '#ccff33', 'white', '#ccff33', '#ff6699', 'white'],
-//     ['white', 'white', '#ff6699', '#ccff33', 'white', '#ccff33', 'white', '#ccff33', '#ccff33', 'white'],
-//     ['white', 'white', '#ccff33', '#ccff33', 'white', '#ccff33', '#ccff33', 'white', 'white', 'white'],
-//     ['white', 'white', 'white', 'white', '#ccff33', '#ccff33', 'white', 'white', 'white', 'white'],
-//     ['white', 'white', 'white', 'white', 'white', '#ccff33', 'white', 'white', 'white', 'white']
-// ]
-// let house =[
-//     ['white', 'white', 'white', 'white', 'white', 'white', '#000000', 'white', 'white', 'white'],
-//     ['white', 'white', 'white', '#cc3300', '#cc3300', '#cc3300', '#cc3300', '#cc3300', 'white', 'white'],
-//     ['white', 'white', '#cc3300', '#cc3300', '#00cccc', '#00cccc', '#00cccc', '#cc3300', '#cc3300', 'white'],
-//     ['white', '#cc3300', '#cc3300', '#cc3300', '#cc3300', '#cc3300', '#cc3300', '#cc3300', '#cc3300', '#cc3300'],
-//     ['white', 'white', '#ff8000', '#ff8000', '#ff8000', '#ff8000', '#ff8000', '#ff8000', '#ff8000', 'white'],
-//     ['white', 'white', '#ff8000', '#00cccc', '#00cccc', '#ff8000', '#66cc00', '#66cc00', '#ff8000', 'white'],
-//     ['white', 'white', '#ff8000', '#00cccc', '#00cccc', '#ff8000', '#00cccc', '#66cc00', '#ff8000', 'white'],
-//     ['white', 'white', '#ff8000', '#ff8000', '#ff8000', '#ff8000', '#66cc00', '#66cc00', '#ff8000', 'white'],
-//     ['white', 'white', '#ff8000', '#ff8000', '#ff8000', '#ff8000', '#66cc00', '#66cc00', '#ff8000', 'white'],
-//     ['white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white', 'white']
-// ]
-
 class Week6 extends Component{
     constructor(){
         super()
@@ -118,14 +81,29 @@ class Week6 extends Component{
     }
 
     render(){
-        let pic = data2
+        let pic = null
         if (this.state.curr_index === 0){ pic = this.state.flower }
         else if (this.state.curr_index === 1){ pic = this.state.house }
         else{ pic = this.state.white }
 
         return(
             <div>
-                <div className='flexbox-container page1'>
+                <div className='landing-page'>
+                    <div className='title-flex'>Pixel Art</div>
+                    <div className='pixels'>
+                        <div className='pixel one'></div>
+                        <div className='pixel two'></div>
+                        <div className='pixel three'></div>
+                        <div className='pixel four'></div>
+                        <div className='pixel five'></div>
+                    </div>
+                </div>
+
+                <div className='about-page'>
+                    dasdsad
+                </div>
+
+                <div className='flexbox-container pagex'>
                     <div className='flexbox-item item1'>
                         <h1>Current Color: {this.state.current_color}</h1>
                         <div className='colors'>
@@ -156,7 +134,6 @@ class Week6 extends Component{
                                                 }}
                                         className='gridcells'
                                         onClick={()=>this.changeCellColor(index, index2, this.state.current_color)}>
-                                            {cell}
                                         </div>
                                     ))
                                 ))
@@ -164,11 +141,6 @@ class Week6 extends Component{
                         </div>
                     </div>
                 </div>
-                {/* <div className='flexbox-container page2'>
-                    <div className='flexbox-item item1'>
-                        Again
-                    </div>
-                </div> */}
             </div>
         )
     }
