@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/IDM-Fall-2020-Web-dev/static/css/main.0896cfbf.chunk.css",
-    "main.js": "/IDM-Fall-2020-Web-dev/static/js/main.c3fdf6d1.chunk.js",
-    "main.js.map": "/IDM-Fall-2020-Web-dev/static/js/main.c3fdf6d1.chunk.js.map",
+    "main.css": "/IDM-Fall-2020-Web-dev/static/css/main.f3ff8c44.chunk.css",
+    "main.js": "/IDM-Fall-2020-Web-dev/static/js/main.a79bab5d.chunk.js",
+    "main.js.map": "/IDM-Fall-2020-Web-dev/static/js/main.a79bab5d.chunk.js.map",
     "runtime-main.js": "/IDM-Fall-2020-Web-dev/static/js/runtime-main.b37d9002.js",
     "runtime-main.js.map": "/IDM-Fall-2020-Web-dev/static/js/runtime-main.b37d9002.js.map",
-    "static/js/2.7dd0f220.chunk.js": "/IDM-Fall-2020-Web-dev/static/js/2.7dd0f220.chunk.js",
-    "static/js/2.7dd0f220.chunk.js.map": "/IDM-Fall-2020-Web-dev/static/js/2.7dd0f220.chunk.js.map",
+    "static/js/2.9aa6fcca.chunk.js": "/IDM-Fall-2020-Web-dev/static/js/2.9aa6fcca.chunk.js",
+    "static/js/2.9aa6fcca.chunk.js.map": "/IDM-Fall-2020-Web-dev/static/js/2.9aa6fcca.chunk.js.map",
     "index.html": "/IDM-Fall-2020-Web-dev/index.html",
-    "precache-manifest.6e54a8b538d947a5cf70c9bf33badd16.js": "/IDM-Fall-2020-Web-dev/precache-manifest.6e54a8b538d947a5cf70c9bf33badd16.js",
+    "precache-manifest.e59930d276ce342116eac80becc23f8f.js": "/IDM-Fall-2020-Web-dev/precache-manifest.e59930d276ce342116eac80becc23f8f.js",
     "service-worker.js": "/IDM-Fall-2020-Web-dev/service-worker.js",
-    "static/css/main.0896cfbf.chunk.css.map": "/IDM-Fall-2020-Web-dev/static/css/main.0896cfbf.chunk.css.map",
-    "static/js/2.7dd0f220.chunk.js.LICENSE.txt": "/IDM-Fall-2020-Web-dev/static/js/2.7dd0f220.chunk.js.LICENSE.txt",
+    "static/css/main.f3ff8c44.chunk.css.map": "/IDM-Fall-2020-Web-dev/static/css/main.f3ff8c44.chunk.css.map",
+    "static/js/2.9aa6fcca.chunk.js.LICENSE.txt": "/IDM-Fall-2020-Web-dev/static/js/2.9aa6fcca.chunk.js.LICENSE.txt",
+    "static/media/abstract_art.PNG": "/IDM-Fall-2020-Web-dev/static/media/abstract_art.00753c52.PNG",
     "static/media/Week2.css": "/IDM-Fall-2020-Web-dev/static/media/meme_mona2.e6de42a5.PNG",
     "static/media/fake_review.PNG": "/IDM-Fall-2020-Web-dev/static/media/fake_review.a7e4d25d.PNG",
     "static/media/mona.PNG": "/IDM-Fall-2020-Web-dev/static/media/mona.d83967f8.PNG",
@@ -23,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b37d9002.js",
-    "static/js/2.7dd0f220.chunk.js",
-    "static/css/main.0896cfbf.chunk.css",
-    "static/js/main.c3fdf6d1.chunk.js"
+    "static/js/2.9aa6fcca.chunk.js",
+    "static/css/main.f3ff8c44.chunk.css",
+    "static/js/main.a79bab5d.chunk.js"
   ]
 }

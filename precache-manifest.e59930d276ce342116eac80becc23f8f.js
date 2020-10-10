@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "346cb4cc062bea44fbadc1548a65a9ee",
+    "revision": "dbe1754f0699bb1ea0f7d79596e55045",
     "url": "/IDM-Fall-2020-Web-dev/index.html"
   },
   {
-    "revision": "ee11babb2afc1508c0cb",
-    "url": "/IDM-Fall-2020-Web-dev/static/css/main.0896cfbf.chunk.css"
+    "revision": "edd6dc488214259168aa",
+    "url": "/IDM-Fall-2020-Web-dev/static/css/main.f3ff8c44.chunk.css"
   },
   {
-    "revision": "3f000c13c56c101c0521",
-    "url": "/IDM-Fall-2020-Web-dev/static/js/2.7dd0f220.chunk.js"
+    "revision": "7bef60fde62b763dc683",
+    "url": "/IDM-Fall-2020-Web-dev/static/js/2.9aa6fcca.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/IDM-Fall-2020-Web-dev/static/js/2.7dd0f220.chunk.js.LICENSE.txt"
+    "url": "/IDM-Fall-2020-Web-dev/static/js/2.9aa6fcca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ee11babb2afc1508c0cb",
-    "url": "/IDM-Fall-2020-Web-dev/static/js/main.c3fdf6d1.chunk.js"
+    "revision": "edd6dc488214259168aa",
+    "url": "/IDM-Fall-2020-Web-dev/static/js/main.a79bab5d.chunk.js"
   },
   {
     "revision": "5bb65006aab5ded59b6f",
     "url": "/IDM-Fall-2020-Web-dev/static/js/runtime-main.b37d9002.js"
+  },
+  {
+    "revision": "00753c523643b10d6487554cc86040bb",
+    "url": "/IDM-Fall-2020-Web-dev/static/media/abstract_art.00753c52.PNG"
   },
   {
     "revision": "29f05e7bc8908da408e1fb42cd84546e",
