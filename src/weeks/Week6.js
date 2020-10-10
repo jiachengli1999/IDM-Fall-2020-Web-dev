@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import '../styles/Common.css'
 import '../styles/Week6.css'
+import art from '../images/abstract_art.PNG'
 
 class Week6 extends Component{
     constructor(){
@@ -98,9 +99,31 @@ class Week6 extends Component{
                         <div className='pixel five'></div>
                     </div>
                 </div>
-
-                <div className='about-page'>
-                    dasdsad
+                <div className='abstract-art-page'>
+                    <h2>Abstract Art</h2>
+                    <div className='art-flex'> 
+                        <img src={art}/>
+                        <div className='art-context'>
+                            Theo Van Doesburg Composition VII (The Three Graces)
+                        </div>
+                    </div>
+                    <div class="art-grid">
+                        <div class="box1"></div>
+                        <div class="box2"></div>
+                        <div class="box3"></div>  
+                        <div class="box4"></div>
+                        <div class="box5"></div>
+                        <div class="box6"></div>
+                        <div class="box7"></div>
+                        <div class="box8"></div>
+                        <div class="box9"></div>
+                        <div class="box10"></div>
+                        <div class="box11"></div>
+                        <div class="box12"></div>
+                        <div class="box13"></div>
+                        <div class="box14"></div>
+                        <div class="box15"></div>
+                    </div>
                 </div>
 
                 <div className='flexbox-container pagex'>

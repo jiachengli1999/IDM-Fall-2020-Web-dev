@@ -74,6 +74,68 @@ div{
     100% {background-color: white;}
 }
 
+.abstract-art-page{
+    background-color: black;
+}
+.abstract-art-page > h2{
+    color: white;
+    font-size: 40px;
+    margin:0;
+}
+.art-flex{
+    display: flex;
+    justify-content: center;
+    /* overflow: hidden; */
+    align-items: center;
+}
+.art-flex > img{
+    width: 40%;
+    margin-bottom: 30px;
+}
+.art-flex > div{
+    /* width: 40%; */
+    color: white;
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+.box1 { grid-area: header; background: peachpuff;}
+.box2 { grid-area: menu; background: white;}
+.box3 { grid-area: main; background: rgb(180, 58, 28);}
+.box4 { grid-area: right; background: rgb(15, 80, 201);}
+.box5 { grid-area: footer; background: peachpuff;}
+.box6 { grid-area: box6; background: white;}
+.box7 { grid-area: box7; background: rgb(15, 80, 201);}
+.box8 { grid-area: box8; background: peachpuff;}
+.box9 { grid-area: box9; background: rgb(15, 80, 201);}
+.box10 { grid-area: box10; background: rgb(180, 58, 28);}
+.box11 { grid-area: box11; background: white;}
+.box12 { grid-area: box12; background: peachpuff;}
+.box13 { grid-area: box13; background: rgb(15, 80, 201);}
+.box14 { grid-area: box14; background: white;}
+.box15 { grid-area: box15; background: rgb(180, 58, 28);}
+
+.art-grid {
+  display: grid;
+  grid-template-areas:
+    '. header header header header header header .'
+    'menu . main main main . right right '
+    'menu footer footer footer footer footer . .'
+    'menu . box6 box6 box7 box8 box8 .'
+    'box9 box9 box9 . box7 . box10 box10'
+    '. box11 box12 . box7 box13 . .'
+    '. box11 box14 box14 box7 . box15 box15';
+
+
+  grid-gap: 10px;
+  background-color: black;
+  padding: 10px;
+}
+.art-grid > div {
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  }
 
 .flexbox-container{
     display: flex;
