@@ -1,17 +1,21 @@
 {
   "files": {
     "main.css": "/IDM-Fall-2020-Web-dev/static/css/main.f3ff8c44.chunk.css",
-    "main.js": "/IDM-Fall-2020-Web-dev/static/js/main.a79bab5d.chunk.js",
-    "main.js.map": "/IDM-Fall-2020-Web-dev/static/js/main.a79bab5d.chunk.js.map",
+    "main.js": "/IDM-Fall-2020-Web-dev/static/js/main.46e83086.chunk.js",
+    "main.js.map": "/IDM-Fall-2020-Web-dev/static/js/main.46e83086.chunk.js.map",
     "runtime-main.js": "/IDM-Fall-2020-Web-dev/static/js/runtime-main.b37d9002.js",
     "runtime-main.js.map": "/IDM-Fall-2020-Web-dev/static/js/runtime-main.b37d9002.js.map",
-    "static/js/2.9aa6fcca.chunk.js": "/IDM-Fall-2020-Web-dev/static/js/2.9aa6fcca.chunk.js",
-    "static/js/2.9aa6fcca.chunk.js.map": "/IDM-Fall-2020-Web-dev/static/js/2.9aa6fcca.chunk.js.map",
+    "static/js/2.e9c0097f.chunk.js": "/IDM-Fall-2020-Web-dev/static/js/2.e9c0097f.chunk.js",
+    "static/js/2.e9c0097f.chunk.js.map": "/IDM-Fall-2020-Web-dev/static/js/2.e9c0097f.chunk.js.map",
     "index.html": "/IDM-Fall-2020-Web-dev/index.html",
-    "precache-manifest.e59930d276ce342116eac80becc23f8f.js": "/IDM-Fall-2020-Web-dev/precache-manifest.e59930d276ce342116eac80becc23f8f.js",
+    "precache-manifest.fab0b7280c6ea799e33d7c4b45281398.js": "/IDM-Fall-2020-Web-dev/precache-manifest.fab0b7280c6ea799e33d7c4b45281398.js",
     "service-worker.js": "/IDM-Fall-2020-Web-dev/service-worker.js",
     "static/css/main.f3ff8c44.chunk.css.map": "/IDM-Fall-2020-Web-dev/static/css/main.f3ff8c44.chunk.css.map",
-    "static/js/2.9aa6fcca.chunk.js.LICENSE.txt": "/IDM-Fall-2020-Web-dev/static/js/2.9aa6fcca.chunk.js.LICENSE.txt",
+    "static/js/2.e9c0097f.chunk.js.LICENSE.txt": "/IDM-Fall-2020-Web-dev/static/js/2.e9c0097f.chunk.js.LICENSE.txt",
+    "static/media/Web Dev Midterm Project-Activities.jpg": "/IDM-Fall-2020-Web-dev/static/media/Web Dev Midterm Project-Activities.51eda967.jpg",
+    "static/media/Web Dev Midterm Project-CS.png": "/IDM-Fall-2020-Web-dev/static/media/Web Dev Midterm Project-CS.cc07fcb0.png",
+    "static/media/Web Dev Midterm Project-Modeling.png": "/IDM-Fall-2020-Web-dev/static/media/Web Dev Midterm Project-Modeling.deaf4e15.png",
+    "static/media/Web Dev Midterm Project-Page-1.png": "/IDM-Fall-2020-Web-dev/static/media/Web Dev Midterm Project-Page-1.ee2162c3.png",
     "static/media/abstract_art.PNG": "/IDM-Fall-2020-Web-dev/static/media/abstract_art.00753c52.PNG",
     "static/media/Week2.css": "/IDM-Fall-2020-Web-dev/static/media/meme_mona2.e6de42a5.PNG",
     "static/media/fake_review.PNG": "/IDM-Fall-2020-Web-dev/static/media/fake_review.a7e4d25d.PNG",
@@ -19,13 +23,14 @@
     "static/media/mona_pic.PNG": "/IDM-Fall-2020-Web-dev/static/media/mona_pic.777a0725.PNG",
     "static/media/rating.PNG": "/IDM-Fall-2020-Web-dev/static/media/rating.307b0623.PNG",
     "static/media/scene.PNG": "/IDM-Fall-2020-Web-dev/static/media/scene.8b40468a.PNG",
+    "static/media/sitemap.PNG": "/IDM-Fall-2020-Web-dev/static/media/sitemap.f94c78c0.PNG",
     "static/media/sunflowers.png": "/IDM-Fall-2020-Web-dev/static/media/sunflowers.0f0f8dc7.png",
     "static/media/wiki.PNG": "/IDM-Fall-2020-Web-dev/static/media/wiki.3e17d825.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.b37d9002.js",
-    "static/js/2.9aa6fcca.chunk.js",
+    "static/js/2.e9c0097f.chunk.js",
     "static/css/main.f3ff8c44.chunk.css",
-    "static/js/main.a79bab5d.chunk.js"
+    "static/js/main.46e83086.chunk.js"
   ]
 }

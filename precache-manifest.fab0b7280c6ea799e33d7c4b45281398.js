@@ -1,27 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dbe1754f0699bb1ea0f7d79596e55045",
+    "revision": "fe147d50ee902babd464e5809fb2af84",
     "url": "/IDM-Fall-2020-Web-dev/index.html"
   },
   {
-    "revision": "edd6dc488214259168aa",
+    "revision": "34f18bc18c13e5b53dd3",
     "url": "/IDM-Fall-2020-Web-dev/static/css/main.f3ff8c44.chunk.css"
   },
   {
-    "revision": "7bef60fde62b763dc683",
-    "url": "/IDM-Fall-2020-Web-dev/static/js/2.9aa6fcca.chunk.js"
+    "revision": "f769cfbc82530506ccd5",
+    "url": "/IDM-Fall-2020-Web-dev/static/js/2.e9c0097f.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/IDM-Fall-2020-Web-dev/static/js/2.9aa6fcca.chunk.js.LICENSE.txt"
+    "url": "/IDM-Fall-2020-Web-dev/static/js/2.e9c0097f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "edd6dc488214259168aa",
-    "url": "/IDM-Fall-2020-Web-dev/static/js/main.a79bab5d.chunk.js"
+    "revision": "34f18bc18c13e5b53dd3",
+    "url": "/IDM-Fall-2020-Web-dev/static/js/main.46e83086.chunk.js"
   },
   {
     "revision": "5bb65006aab5ded59b6f",
     "url": "/IDM-Fall-2020-Web-dev/static/js/runtime-main.b37d9002.js"
+  },
+  {
+    "revision": "51eda967840af3fe28d3cc2057df0ea4",
+    "url": "/IDM-Fall-2020-Web-dev/static/media/Web Dev Midterm Project-Activities.51eda967.jpg"
+  },
+  {
+    "revision": "cc07fcb0e446306cd06f6a7b2956ace9",
+    "url": "/IDM-Fall-2020-Web-dev/static/media/Web Dev Midterm Project-CS.cc07fcb0.png"
+  },
+  {
+    "revision": "deaf4e15c7c837a1ac8ae0d16936f05a",
+    "url": "/IDM-Fall-2020-Web-dev/static/media/Web Dev Midterm Project-Modeling.deaf4e15.png"
+  },
+  {
+    "revision": "ee2162c33c35f8e39ec0d66f1b102d58",
+    "url": "/IDM-Fall-2020-Web-dev/static/media/Web Dev Midterm Project-Page-1.ee2162c3.png"
   },
   {
     "revision": "00753c523643b10d6487554cc86040bb",
@@ -58,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8b40468a1fa6a5009a85c242c064da48",
     "url": "/IDM-Fall-2020-Web-dev/static/media/scene.8b40468a.PNG"
+  },
+  {
+    "revision": "f94c78c060db215522546f4f03874e57",
+    "url": "/IDM-Fall-2020-Web-dev/static/media/sitemap.f94c78c0.PNG"
   },
   {
     "revision": "0f0f8dc796721135977661e98b51d198",
